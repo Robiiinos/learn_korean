@@ -1,4 +1,8 @@
-# ![Flag of South Korea](https://i.imgur.com/tVVoat3.png "Flag of South-Korea") Get started with Korean language
+<p align="center">
+  <img width="450" height="300" src="https://i.imgur.com/Dyf3ogp.png">
+</p>
+
+# Get started with Korean language
 Sheets  about the culture, grammar, vocabulary, and all that it's necessary to know in order to prepare your journey in South-Korea.
 
 1. [The Alphabet - 한글](Alphabet)
