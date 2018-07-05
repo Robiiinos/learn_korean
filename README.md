@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="450" height="300" src="https://i.imgur.com/Dyf3ogp.png">
-</p>
+![Flag of South-Korea](https://i.imgur.com/bBo7vd7.png)
 
 # Get started with Korean language
 Sheets  about the culture, grammar, vocabulary, and all that it's necessary to know in order to prepare your journey in South-Korea.
