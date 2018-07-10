@@ -14,6 +14,10 @@ Sheets  about the culture, grammar, vocabulary, ... All that is necessary to kno
     - [Accommodation](Vocabulary/Accommodation/README.md)
     - [Eat & Drink](Vocabulary/Eat%20&%20Drink/README.md)
     - [Food](Vocabulary/Food/README.md)
+    
+3. [Others - 다른](Others)
+    - [Celebrations & Holidays](Others/Celebrations%20&%20Holidays/README.md)
+    - ...
 
 ---
 ### Contributing
