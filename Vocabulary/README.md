@@ -1,10 +1,14 @@
 # Vocabulary
-Away from the classic latin alphabet that are using most of the occidental countries, Korean alphabet is 한글 (Hangul *[ha(ː)n.ɡɯl]*).
+Explain yourself and understand others with these complete cheatsheets; with advices and pronunciation.
 
 ---
-1. The Alphabet - 한글
-    - [History](HISTORY.md) : History around the creation of Hangul *[ha(ː)n.ɡɯl]* to understand why and how it has been created; and the evolutions made since then.
-
-    - [Letters](LETTERS.md) : List of vowels and consonants forming the Korean alphabet.
-
-    - [Strokes](STROKES.md) : How to write letters / syllables for handwriting.
+1. Vocabulary - 어휘
+    - [Get acquainted](Get%20acquainted/README.md)
+    
+    - [Move - Travel](Move%20-%20Travel/README.md)
+    
+    - [Accommodation](Accommodation/README.md)
+    
+    - [Eat & Drink](Eat%20&%20Drink/README.md)
+    
+    - [Food](Food/README.md)
