@@ -7,6 +7,13 @@ Sheets  about the culture, grammar, vocabulary, and all that it's necessary to k
     - [History](Alphabet/HISTORY.md)
     - [Letters](Alphabet/LETTERS.md)
     - [Strokes](Alphabet/STROKES.md)
+    
+1. [Vocabulary - 어휘](Vocabulary)
+    - [Get acquainted](Vocabulary/Get%20acquainted/README.md)
+    - [Move - Travel](Vocabulary/Move%20-%20Travel/README.md)
+    - [Accommodation](Vocabulary/Accommodation/README.md)
+    - [Eat & Drink](Vocabulary/Eat%20&%20Drink/README.md)
+    - [Food](Vocabulary/Food/README.md)
 
 ---
 ### Contributing
