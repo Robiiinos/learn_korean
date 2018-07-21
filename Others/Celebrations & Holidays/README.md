@@ -37,7 +37,7 @@
 
 ### May, 1st :
 ## Labour Day :
-#### ** 	노동절** [ Nodongjeol ]
+#### **노동절** [ Nodongjeol ]
 
 > Also known as Workers' Day.
 
