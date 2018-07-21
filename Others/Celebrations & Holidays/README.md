@@ -27,29 +27,29 @@
 ---
 ## Other celebrations & events
 
-### Early April :
-## Cherry blossom :
+### Early April
+## Cherry blossom
 #### **군항제** [ Gunhangje ]
 
 > Especially in the south of Korea, in particular in **진해** - **Jinhae**.
 
 ## &nbsp;
 
-### May, 1st :
-## Labour Day :
+### May, 1st
+## Labour Day
 #### **노동절** [ Nodongjeol ]
 
 > Also known as Workers' Day.
 
 ## &nbsp;
 
-### May, 8th :
-## Parents' Day :
+### May, 8th
+## Parents' Day
 #### **어버이날** [ Eobeoinal ]
 
-> Replacing the Mother's Day previously at this date.
-
----
+> Replacing the Mothers' Day previously at this date.
+ 
+## &nbsp;
 ##### Sources :
 
 [Korean Public Holidays](https://english.visitkorea.or.kr/enu/TRV/TV_ENG_1_1.jsp) : Official Site of Korea Tourism  
