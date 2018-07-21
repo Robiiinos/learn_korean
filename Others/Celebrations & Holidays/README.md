@@ -25,13 +25,29 @@
 | December, 25th                                 | Christmas                 |  Christmas is observed as a national holiday in Korea  as in many other  countries. To celebrate the festive season, Christmas  trees and lights  can be seen all over Korea.                                                                                                                                                                                                                                                                                                                                                                                                                           | **크리스마스** <br> [ Keuliseumaseu ]      |
 
 ---
-### Other celebrations & events
+## Other celebrations & events
 
-| Date        | Description                                                                           | Translation                    |
-| :---------: | :-----------------------------------------------------------------------------------: | :----------------------------: |
-| Early April | Cherry blossom (especially in the south of Korea, in particular in **진해** - Jinhae) | **군항제** <br> [ Gunhangje ]   |
-| May, 1st    | Labour Day / Workers' Day                                                             | **노동절** <br> [ Nodongjeol ]  |
-| May, 8th    | Parents' Day                                                                          | **어버이날** <br> [ Eobeoinal ] |
+### Early April :
+## Cherry blossom :
+#### **군항제** [ Gunhangje ]
+
+> Especially in the south of Korea, in particular in **진해** - **Jinhae**.
+
+## &nbsp;
+
+### May, 1st :
+## Labour Day :
+#### ** 	노동절** [ Nodongjeol ]
+
+> Also known as Workers' Day.
+
+## &nbsp;
+
+### May, 8th :
+## Parents' Day :
+#### **어버이날** [ Eobeoinal ]
+
+> Replacing the Mother's Day previously at this date.
 
 ---
 ##### Sources :
