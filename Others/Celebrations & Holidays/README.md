@@ -6,23 +6,111 @@
 > During these holidays, offices and banks are closed but most of the businesses and public facilities (museum, department stores, ...) remain open.
 
 ---
-### Holidays
+## Holidays
 
-| Date                                           | Significance              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Translation                  |
-| ---------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| January, 1st                                   |  New Year's Day           | As in other countries, the first day of the New Year is celebrated. Many   Koreans visit the coast or the mountains to watch the first sunrise of   the year.                                                                                                                                                                                                                                                                                                                                                                                                                                           | **신정** <br> [ Sinjeong ]              |
-| 1st day of the 1st month (Jan. - Mar.)         | Lunar New Year's Day      | Lunar New Year's Day (Seollal) is one of the most important traditional   holidays of the year; the holiday is much more significant than January   1st. Most businesses are closed, and people take several days off from   work to visit their hometowns to be with their family. On the day of   Seollal, everyone gets up early, puts on their best clothes, and bows to   their elders as a reaffirmation of family ties. Feasts are held with   specially prepared food such as tteokguk (rice cake soup) and mandu guk  (dumpling soup). People play traditional games, fly kites, or spin tops. | **설날** <br> [ Seollal ]               |
-| March, 1st                                     | Independence Movement Day | This day commemorates the Declaration of Independence proclaimed on March 1, 1919, while under Japanese colonization.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **삼일절** <br> [ Samiljeol ]            |
-| April, 5th                                     | Tree Day                  | After  the Korean War, the South Korean government decided to celebrate  the  day of trees to remedy the destructions and the deforestation owed  to  the conflict. Since then, Korean citizens keep planting trees and  flowers, and the day  of trees testify of the respect for the nature and  for the environment.                                                                                                                                                                                                                                                                                 | **식목일** <br> [ Singmogil ]            |
-| May, 5th                                       |  Children's Day           | This day celebrates children and their parents' hopes for them to grow   healthy and become good citizens. On this day, parents take their little   ones to children's parks, amusement parks, zoos, or to the cinema for a   full day of fun and games.                                                                                                                                                                                                                                                                                                                                                | **어린이날** <br> [ Eorininal ]           |
-| 8th day of the 4th lunar month                 | Buddha's Birthday         | Falling on the eighth day of the fourth lunar month, elaborate and   solemn rituals are held at many Buddhist temples across the country and   lanterns are hung along streets leading to temples.                                                                                                                                                                                                                                                                                                                                                                                                      | **부처님오신닐** <br> [ Bucheonim osinnal ] |
-| June, 6th                                      | Memorial Day              | Memorial Day is set aside to honor the soldiers and civilians who have   given their lives for their country. The largest ceremony is held at the   National Cemetery in Seoul.                                                                                                                                                                                                                                                                                                                                                                                                                         | **현충일** <br> [ Hyeonchungil ]         |
-| July, 17th                                     | Constitution Day          | Commemoration of the adoption of the Constitution of the Republic of Korea in 1948.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **제헌절** <br> [ Jeheonjeol ]           |
-| August, 15th                                   | Liberation Day            |  This day commemorates Japan's acceptance of the Allies' terms of surrender in 1945 and the resulting liberation of Korea.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **광복절** <br> [ Gwangbokjeol ]         |
-| 15th day of the 8th lunar month (Sept. - Oct.) | Korean Thanksgiving Day   | Chuseok is one of the year’s most  important traditional holidays. It is   celebrated on the 15th day of the eighth  lunar month. Chuseok is  often  referred to as Korean Thanksgiving Day. It’s a  celebration of  the  harvest and thanksgiving for the bounty of the earth. Family   members  come from all over the country for memorial  rituals, called  charye, at the graves  of their ancestors.                                                                                                                                                                                              | **추석** <br> [ Chuseok ]               |
-| October, 3rd                                   | National Foundation Day   | This day commemorates the founding of  the Korean nation by the  legendary god-king  Dangun. A simple ceremony is held at Chamseongdan   Altar on top of Manisan Mountain on Ganghwado Island.                                                                                                                                                                                                                                                                                                                                                                                                          | **개천절** <br> [ Gaecheonjeol ]         |
-| October, 9th                                   | Hangul Day                | Hangul Day is a commemoration held to remember the creation of Hangeul,   the country's native alphabet as proclaimed by the publication of   Hunminjeongeum on this day in 1446.                                                                                                                                                                                                                                                                                                                                                                                                                       | **한글날** <br> [ Hangeulnal ]           |
-| December, 25th                                 | Christmas                 |  Christmas is observed as a national holiday in Korea  as in many other  countries. To celebrate the festive season, Christmas  trees and lights  can be seen all over Korea.                                                                                                                                                                                                                                                                                                                                                                                                                           | **크리스마스** <br> [ Keuliseumaseu ]      |
+### January, 1st
+## New Year's Day
+#### **신정** [ Sinjeong ]
+
+> As in other countries, the first day of the New Year is celebrated. Many Koreans visit the coast or the mountains to watch the first sunrise of the year.
+
+## &nbsp;
+
+### 1st day of the 1st month (Jan. - Mar.)
+## Lunar New Year's Day
+#### **설날** [ Seollal ]
+
+> Lunar New Year's Day (Seollal) is one of the most important traditional holidays of the year; the holiday is much more significant than January 1st. Most businesses are closed, and people take several days off from work to visit their hometowns to be with their family. On the day of Seollal, everyone gets up early, puts on their best clothes, and bows to their elders as a reaffirmation of family ties. Feasts are held with specially prepared food such as tteokguk (rice cake soup) and mandu guk (dumpling soup). People play traditional games, fly kites, or spin tops.
+
+## &nbsp;
+
+### March, 1st
+## Independence Movement Day
+#### **삼일절** [ Samiljeol ] 
+
+> This day commemorates the Declaration of Independence proclaimed on March 1, 1919, while under Japanese colonization.
+
+## &nbsp;
+
+### April, 5th
+## Tree Day
+#### **식목일** [ Singmogil ]
+
+> After the Korean War, the South Korean government decided to celebrate the day of trees to remedy the destructions and the deforestation owed to the conflict. Since then, Korean citizens keep planting trees and flowers, and the day of trees testify of the respect for the nature and for the environment.
+
+## &nbsp;
+
+### May, 5th
+##  	Children's Day
+#### **어린이날** [ Eorininal ]
+
+> This day celebrates children and their parents' hopes for them to grow healthy and become good citizens. On this day, parents take their little ones to children's parks, amusement parks, zoos, or to the cinema for a full day of fun and games.
+
+## &nbsp;
+
+### 8th day of the 4th lunar month (May - June)
+## Buddha's Birthday
+#### **부처님오신닐** [ Bucheonim osinnal ]
+
+> Falling on the eighth day of the fourth lunar month, elaborate and solemn rituals are held at many Buddhist temples across the country and lanterns are hung along streets leading to temples.
+
+## &nbsp;
+
+### June, 6th
+## Memorial Day
+#### **현충일** [ Hyeonchungil ] 
+
+> Memorial Day is set aside to honor the soldiers and civilians who have given their lives for their country. The largest ceremony is held at the National Cemetery in Seoul.
+
+## &nbsp;
+
+### July, 17th
+## Constitution Day
+#### **제헌절** [ Jeheonjeol ] 
+
+> Commemoration of the adoption of the Constitution of the Republic of Korea in 1948.
+
+## &nbsp;
+
+### August, 15th
+## Liberation Day
+#### **광복절** [ Gwangbokjeol ]
+
+> This day commemorates Japan's acceptance of the Allies' terms of surrender in 1945 and the resulting liberation of Korea.
+
+## &nbsp;
+
+### 15th day of the 8th lunar month (Sept. - Oct.)
+## Korean Thanksgiving Day
+#### **추석** [ Chuseok ]
+
+> Chuseok is one of the year’s most important traditional holidays. It is celebrated on the 15th day of the eighth lunar month. Chuseok is often referred to as Korean Thanksgiving Day. It’s a celebration of the harvest and thanksgiving for the bounty of the earth. Family members come from all over the country for memorial rituals, called charye, at the graves of their ancestors.
+
+## &nbsp;
+
+### October, 3rd
+## National Foundation Day
+#### **개천절** [ Gaecheonjeol ]
+
+> This day commemorates the founding of the Korean nation by the legendary god-king Dangun. A simple ceremony is held at Chamseongdan Altar on top of Manisan Mountain on Ganghwado Island.
+
+## &nbsp;
+
+### October, 9th
+## Hangul Day
+#### **한글날** [ Hangeulnal ]
+
+> Hangul Day is a commemoration held to remember the creation of Hangeul, the country's native alphabet as proclaimed by the publication of Hunminjeongeum on this day in 1446.
+
+## &nbsp;
+
+### December, 25th
+## Christmas
+#### **크리스마스** [ Keuliseumaseu ]
+
+> Christmas is observed as a national holiday in Korea as in many other countries. To celebrate the festive season, Christmas trees and lights can be seen all over Korea.
+
+## &nbsp;
 
 ---
 ## Other celebrations & events

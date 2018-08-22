@@ -1,6 +1,6 @@
 ![Flag of South-Korea](https://i.imgur.com/bBo7vd7.png)
 
-# Get started with Korean language
+# Get started with Korean
 Sheets  about the culture, grammar, vocabulary, ... All that is necessary to know in order to prepare your journey in South-Korea.
 
 1. [Alphabet - 한글](Alphabet)
